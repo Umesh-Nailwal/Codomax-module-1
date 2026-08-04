@@ -7,6 +7,6 @@ app.get('/', (req,res) => {
 });
 
 app.listen(port , () => {
-    console.log(`Server is listed on ${port}`)
+    console.log(`Server is listining on ${port}`)
 });
 
